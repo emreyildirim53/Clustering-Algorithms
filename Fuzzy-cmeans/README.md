@@ -6,13 +6,13 @@
 
 ![](img/interface.png)
 
-**File URL: (Open button after)** Dinamik olarak seçilen .csv uzantılı örneklem.
-**Choose Example:** Önceden tanımlı örneklem seçilebilmektedir.
-**Show Points:** Algoritma çalışmadan önce örneklemi gözlemlemek için hazırlanmış ekran.
-**Elbow:** Küme sayısının tespit edilmesi için kullanılan tekniğin uygulanma ekranı.
-**C Means On Points:** Uygulamanın çalıştırıldığı pencere
-** <- Before:** Algoritmanın bir önceki adımına geri dönmek için kullanılır. (Algoritmanın çalıştırılması gerekmektedir.)
-** After ->:** Algoritmanın bir sonraki adıma geri dönmek için kullanılır.(Algoritmanın çalıştırılması gerekmektedir.)
+**File URL: (Open button after)** Dinamik olarak seçilen .csv uzantılı örneklem.<br>
+**Choose Example:** Önceden tanımlı örneklem seçilebilmektedir.<br>
+**Show Points:** Algoritma çalışmadan önce örneklemi gözlemlemek için hazırlanmış ekran.<br>
+**Elbow:** Küme sayısının tespit edilmesi için kullanılan tekniğin uygulanma ekranı.<br>
+**C Means On Points:** Uygulamanın çalıştırıldığı penceredir.<br>
+** <- Before:** Algoritmanın bir önceki adımına geri dönmek için kullanılır. (Algoritmanın çalıştırılması gerekmektedir.)<br>
+** After ->:** Algoritmanın bir sonraki adıma geri dönmek için kullanılır.(Algoritmanın çalıştırılması gerekmektedir.)<br>
 
 #### Örneklem görüntüsü:
 
