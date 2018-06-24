@@ -14,13 +14,13 @@
 ** <- Before:** Algoritmanın bir önceki adımına geri dönmek için kullanılır. (Algoritmanın çalıştırılması gerekmektedir.)
 ** After ->:** Algoritmanın bir sonraki adıma geri dönmek için kullanılır.(Algoritmanın çalıştırılması gerekmektedir.)
 
-###### Örneklem görüntüsü:
+#### Örneklem görüntüsü:
 
 ![](img/sample.png)
 
 
 
-###### Örneklem Fuzzy C Means uygulama sonrası görüntüsü:
+#### Örneklem Fuzzy C Means uygulama sonrası görüntüsü:
 
 ![](img/cmeans.png)
 
