@@ -11,8 +11,8 @@
 **Show Points:** Algoritma çalışmadan önce örneklemi gözlemlemek için hazırlanmış ekran.<br>
 **Elbow:** Küme sayısının tespit edilmesi için kullanılan tekniğin uygulanma ekranı.<br>
 **C Means On Points:** Uygulamanın çalıştırıldığı penceredir.<br>
-** <- Before:** Algoritmanın bir önceki adımına geri dönmek için kullanılır. (Algoritmanın çalıştırılması gerekmektedir.)<br>
-** After ->:** Algoritmanın bir sonraki adıma geri dönmek için kullanılır.(Algoritmanın çalıştırılması gerekmektedir.)<br>
+**<- Before:** Algoritmanın bir önceki adımına geri dönmek için kullanılır. (Algoritmanın çalıştırılması gerekmektedir.)<br>
+**After ->:** Algoritmanın bir sonraki adıma geri dönmek için kullanılır.(Algoritmanın çalıştırılması gerekmektedir.)<br>
 
 #### Örneklem görüntüsü:
 
