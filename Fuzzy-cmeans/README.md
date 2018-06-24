@@ -1,8 +1,8 @@
-###Fuzzy C Means Görsel Kümeleme Uygulaması
+### Fuzzy C Means Görsel Kümeleme Uygulaması
 
 Örneklem uzayında veriyi temsil eden kordinatlar belirlenen küme sayısı parametresine göre cümeleme işlemi yapılmaktadır. Küme sayısı belirlenemediği durumlarda Elbow Tekniği ile yaklaşık bir küme sayısı tespit edilmeye çalışılmıştır. Elde edilen küme görüntüsü rgb (red/green/blue) formatında renklendirilmiştir. Kümeye aitlik derecesine göre her bir nokta renklendirilmiştir. 
 
-####Arayüz tasarımı
+#### Arayüz tasarımı
 
 ![](img/interface.png)
 
@@ -14,11 +14,13 @@
 ** <- Before:** Algoritmanın bir önceki adımına geri dönmek için kullanılır. (Algoritmanın çalıştırılması gerekmektedir.)
 ** After ->:** Algoritmanın bir sonraki adıma geri dönmek için kullanılır.(Algoritmanın çalıştırılması gerekmektedir.)
 
-######Örneklem görüntüsü:
+###### Örneklem görüntüsü:
+
 ![](img/sample.png)
 
 
 
-######Örneklem Fuzzy C Means uygulama sonrası görüntüsü:
+###### Örneklem Fuzzy C Means uygulama sonrası görüntüsü:
+
 ![](img/cmeans.png)
 
